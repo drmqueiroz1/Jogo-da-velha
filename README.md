@@ -35,7 +35,7 @@ git clone https://github.com/drmqueiroz1/Jogo-da-velha.git
 - O jogo da velha será exibido no tabuleiro.
 - Dois jogadores podem competir alternadamente, clicando em um espaço vazio para marcar com "X" ou "O".
 - Os Jogadores colocam seus nomes e depois basta clicar no botão "Iniciar".
-- O jogo verificará automaticamente se há um vencedor após cada jogada.
+- O jogo verificará automaticamente se há um vencedor após cada jogada, informando seu nome.
 - Ao final do jogo, o resultado (vitória, empate ou jogo em andamento) será exibido.
 - Para reiniciar o jogo, clique no botão "Iniciar".
 
