@@ -19,7 +19,7 @@ O Projeto Jogo da Velha é uma aplicação web interativa que recria o famoso jo
  - JavaScript
 
 ## Instalação
-Não é necessário instalação para este projeto. Basta abrir o arquivo index.html em um navegador da web para jogar o Jogo da Velha.
+Não é necessário instalação para este projeto. Basta acessar o link para jogar o Jogo da Velha.
 
 ## Clone o repositório (caso esteja utilizando um sistema de controle de versão)
 git clone https://github.com/drmqueiroz1/Jogo-da-velha.git
