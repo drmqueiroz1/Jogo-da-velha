@@ -36,7 +36,7 @@ git clone https://github.com/drmqueiroz1/Jogo-da-velha.git
 - Dois jogadores podem competir alternadamente, clicando em um espaço vazio para marcar com "X" ou "O".
 - O jogo verificará automaticamente se há um vencedor após cada jogada.
 - Ao final do jogo, o resultado (vitória, empate ou jogo em andamento) será exibido.
-- Para reiniciar o jogo, clique no botão "Reiniciar Jogo".
+- Para reiniciar o jogo, clique no botão "Iniciar".
 
 ## Contribuição
 Este é um projeto pessoal desenvolvido como parte das aulas do curso da Onebitcode, portanto, não aceita contribuições externas. No entanto, fico feliz em ler seus comentários e sugestões!
