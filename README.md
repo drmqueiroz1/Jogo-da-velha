@@ -1,4 +1,4 @@
-[Experimente](https://drmqueiroz1.github.io/Jogo-da-velha/)
+[Experimente!!!](https://drmqueiroz1.github.io/Jogo-da-velha/)
 
 # Jogo da Velha (Tic-Tac-Toe)
 
@@ -15,13 +15,14 @@ O Projeto Jogo da Velha é uma aplicação web interativa que recria o famoso jo
  - Verificação do vencedor após cada jogada.
  - Exibição do resultado final (vitória, empate ou jogo em andamento).
  - Opção de reiniciar o jogo após o término.
- - Tecnologias Utilizadas
+ 
+ ## Tecnologias Utilizadas
  - HTML5
  - CSS3
  - JavaScript
 
 ## Instalação
-Não é necessário instalação para este projeto. Basta acessar o link, no topo da pagina ou [aqui](https://drmqueiroz1.github.io/Jogo-da-velha/) para jogar o Jogo da Velha.
+Não é necessário instalação para este projeto. Basta acessar o link, no topo desta página ou [aqui](https://drmqueiroz1.github.io/Jogo-da-velha/) para jogar o Jogo da Velha.
 
 ## Clone o repositório (caso esteja utilizando um sistema de controle de versão)
 git clone https://github.com/drmqueiroz1/Jogo-da-velha.git
